@@ -1,0 +1,12 @@
+{
+  "name": "@mono/app1",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@mono/p1": "workspace:*",
+    "@mono/p2": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}

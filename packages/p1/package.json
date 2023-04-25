@@ -1,0 +1,13 @@
+{
+  "name": "@mono/p1",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./*": {
+      "default": "./src/*"
+    }
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
